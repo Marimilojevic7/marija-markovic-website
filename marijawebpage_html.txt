@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Marija Markovic - Personal Website</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f3f3f3;
+    }
+    header {
+      background-color: #336699;
+      color: white;
+      text-align: center;
+      padding: 1em;
+    }
+    h1 {
+      margin: 0;
+      padding: 0;
+    }
+    .content {
+      padding: 2em;
+    }
+    footer {
+      text-align: center;
+      padding: 1em;
+      background-color: #336699;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Marija Markovic</h1>
+    <p>Communication Specialist, Scrum Master, Project Manager</p>
+  </header>
+  <div class="content">
+    <h2>About Me</h2>
+    <p>Hello! I'm Marija Markovic, a passionate communication specialist with a strong background in project management and Scrum methodologies. I believe in effective communication as a key to successful project delivery.</p>
+    
+    <h2>Contact Information</h2>
+    <p>Email: marija@example.com<br>
+       Phone: (123) 456-7890<br>
+       LinkedIn: <a href="https://www.linkedin.com/in/marijamarkovic">linkedin.com/in/marijamarkovic</a></p>
+  </div>
+  <footer>
+    <p>&copy; 2023 Marija Markovic. All rights reserved.</p>
+  </footer>
+</body>
+</html>
